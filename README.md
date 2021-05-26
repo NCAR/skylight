@@ -9,3 +9,8 @@ Mission 1:
 * add and commit your changes
 
 * push your changes to https://github.com/NCAR/skylight 
+
+## Mission 1 log:
+
+Clone the repo - done
+
